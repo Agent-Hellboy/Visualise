@@ -23,8 +23,9 @@ subsets([1,2,3])
 
 
 ```
-OUTPUT 
-whole summary of call_stack whenever program execution at point of function call
+OUTPUT:
+ 
+whole summary of call_stack whenever program execution hits the point of function call
 ```
 ********************************************************************************
 {'current_frame': <frame at 0x7f5c74c7fdd0, file '/home/proshan/stackoverflow/Visualise/visualise/v_call_stack.py', line 9, code call_stack>}
